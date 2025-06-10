@@ -433,14 +433,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-titled-transient-microkinetic-modeling-of-electrochemical-mechanisms-towards-understanding-the-dynamics-of-co-reduction-and-oxygen-evolution-is-accepted-to-aiche-2025-in-boston-ma",
           title: 'Our paper titled “Transient Microkinetic Modeling of Electrochemical Mechanisms: Towards Understanding the Dynamics...',
-          description: "",
-          section: "News",},{id: "news-our-paper-titled-data-driven-massive-reaction-networks-reveal-new-pathways-underlying-catalytic-co2-hydrogenation-is-accepted-to-aiche-2025-in-boston-ma",
-          title: 'Our paper titled “Data-Driven Massive Reaction Networks Reveal New Pathways Underlying Catalytic CO2...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
