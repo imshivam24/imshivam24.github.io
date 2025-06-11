@@ -2,10 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 3
-cv_pdf: Shivam_CV_2025.pdf
-description: 
-toc:
-  sidebar: left
+cv_pdf: Shivam_iisc_resume_2025.pdf
 ---
