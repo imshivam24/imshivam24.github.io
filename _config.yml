@@ -71,6 +71,38 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: imshivam24
+gitlab_username:
+twitter_username: shivam_che
+mastodon_username:
+linkedin_username: shivam-che
+telegram_username:
+scholar_userid: xq9z4ToAAAAJ&hl
+semanticscholar_id:
+whatsapp_number:
+orcid_id: 0000-0002-3650-4230
+medium_username:
+quora_username:
+publons_id:
+blogger_url:
+work_url:
+keybase_username:
+wikidata_id:
+dblp_url:
+stackoverflow_id:
+kaggle_id:
+lastfm_id:
+spotify_id:
+pinterest_id:
+unsplash_id:
+instagram_id:
+facebook_id:
+discord_id:
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
