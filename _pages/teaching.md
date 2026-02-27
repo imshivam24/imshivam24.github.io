@@ -1,14 +1,29 @@
+
 ---
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+description: teaching experience in reverse chronological order.
+nav: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+#### Teaching Experience
+
+Provided teaching assistance, mentoring, and academic support in the following courses (reverse chronological order):
+
+- **NPTEL: Machine Learning for Core Engineering Disciplines** (Aug 2025)  
+  Teaching Assistant under Prof. Ananth Govind Rajan  
+  - Assisted with course coordination, student queries, assignment evaluation, and conceptual discussions in machine learning foundations for engineering applications.
+
+- **CH253: Quantum-Mechanical Modelling of Nanomaterials** (Jan 2025)  
+  Teaching Assistant under Prof. Ananth Govind Rajan  
+  - Conducted tutorials, supported computational labs, and graded assignments focused on quantum modelling and nanoscale simulations.
+
+- **CH202: Numerical Methods** (Aug 2024)  
+  Teaching Assistant under Prof. Narendra Dixit  
+  - Guided problem-solving sessions, assisted with numerical programming assignments, and evaluated coursework on numerical techniques and scientific computing.
+ 
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
