@@ -1,4 +1,3 @@
-
 ---
 layout: page
 permalink: /teaching/
@@ -23,8 +22,3 @@ Provided teaching assistance, mentoring, and academic support in the following c
 - **CH202: Numerical Methods** (Aug 2024)  
   Teaching Assistant under Prof. Narendra Dixit  
   - Guided problem-solving sessions, assisted with numerical programming assignments, and evaluated coursework on numerical techniques and scientific computing.
- 
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
