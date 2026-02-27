@@ -9,9 +9,9 @@ nav_order: 4
 
 #### Teaching Experience
 
-Provided teaching assistance, mentoring, and academic support in the following courses (reverse chronological order):
+Provided teaching assistance, mentoring, and academic support in the following courses:
 
-- **NPTEL: Machine Learning for Core Engineering Disciplines** (Aug 2025)  
+- **[NPTEL: Machine Learning for Core Engineering Disciplines](https://www.youtube.com/playlist?list=PLgMDNELGJ1CYxkPswXfE1Fk9rzBeG4hFv)** (Aug 2025)
   Teaching Assistant under Prof. Ananth Govind Rajan  
   - Assisted with course coordination, student queries, assignment evaluation, and conceptual discussions in machine learning foundations for engineering applications.
 
@@ -21,4 +21,4 @@ Provided teaching assistance, mentoring, and academic support in the following c
 
 - **CH202: Numerical Methods** (Aug 2024)  
   Teaching Assistant under Prof. Narendra Dixit  
-  - Guided problem-solving sessions, assisted with numerical programming assignments, and evaluated coursework on numerical techniques and scientific computing.
+  - Assisted with numerical programming assignments and evaluated coursework on numerical techniques.
