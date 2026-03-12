@@ -410,7 +410,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-transient-microkinetic-modeling-of-electrochemical-mechanisms-towards-understanding-the-dynamics-of-co-reduction-and-oxygen-evolution-has-been-accepted-for-publication-in-advanced-theory-amp-amp-simulations-adts-wiley",
           title: 'Our paper, “Transient Microkinetic Modeling of Electrochemical Mechanisms: Towards Understanding the Dynamics of...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-my-oral-presentation-machine-learning-guided-design-of-copper-based-single-atom-alloy-catalysts-for-co-valorisation-has-been-accepted-for-acs-spring-2026-and-will-be-presented-online",
+          section: "News",},{id: "news-excited-to-share-that-my-oral-presentation-machine-learning-guided-design-of-copper-based-single-atom-alloy-catalysts-for-co-valorisation-has-been-accepted-for-the-acs-spring-2026-global-virtual-symposium-in-the-theme-computational-materials-discovery",
           title: 'Excited to share that my oral presentation, “Machine learning-guided design of copper-based single-atom...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-our-research-article-hydrocarbon-selectivity-in-co-and-co-reduction-on-al-cu-single-atom-alloy-electrocatalysts-effects-of-potential-ph-and-facet-has-been-accepted-for-publication-in-chemsuschem",
