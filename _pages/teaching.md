@@ -15,10 +15,10 @@ Provided teaching assistance, mentoring, and academic support in the following c
   Teaching Assistant under Prof. Ananth Govind Rajan  
   - Assisted with course coordination, student queries, assignment evaluation, and conceptual discussions in machine learning foundations for engineering applications.
 
-- **CH253: Quantum-Mechanical Modelling of Nanomaterials** (Jan 2025)  
+- **[CH253: Quantum-Mechanical Modelling of Nanomaterials](https://chemeng.iisc.ac.in/academics/courses/)** (Jan 2025)  
   Teaching Assistant under Prof. Ananth Govind Rajan  
   - Conducted tutorials, supported computational labs, and graded assignments focused on quantum modelling and nanoscale simulations.
 
-- **CH202: Numerical Methods** (Aug 2024)  
+- **[CH202: Numerical Methods](https://chemeng.iisc.ac.in/academics/courses/)** (Aug 2024)  
   Teaching Assistant under Prof. Narendra Dixit  
   - Assisted with numerical programming assignments and evaluated coursework on numerical techniques.
