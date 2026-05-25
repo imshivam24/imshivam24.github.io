@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-25'
 papers:
   xq9z4ToAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: 'Transient Microkinetic Modeling of Electrochemical Reactions: Capturing Unsteady Dynamics of CO Reduction and Oxygen Evolution'
     year: '2026'
   xq9z4ToAAAAJ:d1gkVwhDpl0C:
     citations: 3
     title: Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation
     year: '2025'
+  xq9z4ToAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: "Hydrocarbon Selectivity in CO and CO2 Reduction on Al\u2013Cu Single\u2010Atom Alloy Electrocatalysts: Effects of Potential, pH, and Facet"
+    year: '2026'
   xq9z4ToAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: 'Advances in CO2 reduction on bulk and two-dimensional electrocatalysts: From first principles to experimental outcomes'
     year: '2025'
   xq9z4ToAAAAJ:u5HHmVD_uO8C:
