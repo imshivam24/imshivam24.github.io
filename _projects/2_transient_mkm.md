@@ -12,4 +12,5 @@ Most microkinetic models of electrochemical reactions assume steady state — a 
 
 The framework initializes a clean surface, runs the microkinetic model at each potential step, carries the resulting coverages forward as the initial condition for the next step, and repeats across the full potential window — automated and scalable to large reaction networks. Applied to CO reduction and oxygen evolution, USS-MKM agrees well with prior steady-state results at long times and reproduces experimental CO reduction current densities, while also exposing transient behavior that steady-state models simply can't see.
 
-{% cite chaturvedi2025transient %}
+<span style="display:none">{% cite chaturvedi2025transient %}</span>
+[(Chaturvedi et al., 2025)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adts.202500799)

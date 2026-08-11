@@ -12,4 +12,5 @@ Bulk and two-dimensional catalyst materials behave very differently in electroch
 
 Bulk materials are easier to synthesize and dope and tend to favor longer carbon-chain products; 2D materials offer higher active-site density and greater tunability of electronic structure. The review also surveys recent efforts to break the scaling relationships that constrain intermediate adsorption energies, and argues that the next gains will come from realistic electrode-electrolyte interface simulations and hybrid designs that combine the strengths of both material classes.
 
-{% cite rajagopalan2025advances %}
+<span style="display:none">{% cite rajagopalan2025advances %}</span>
+[(Rajagopalan and Chaturvedi et al., 2025)](https://www.sciencedirect.com/science/article/pii/S2451910325000274)

@@ -12,4 +12,5 @@ Al-Cu single-atom alloys are thermodynamically attractive for electrochemical CO
 
 Feeding those barriers into a microkinetic model reveals potential- and pH-dependent selectivity: CO₂ reduction favors formic acid across most conditions, while CO reduction pushes toward methanol at higher pH. The rate-determining step for methane formation — dehydroxylation of a COH intermediate — turns out to be facet-sensitive, with a noticeably lower barrier on the stepped surface. The result is a mechanistic picture of how potential, pH, and surface structure together steer selectivity on this catalyst class.
 
-{% cite chaturvedi2026hydrocarbon %}
+<span style="display:none">{% cite chaturvedi2026hydrocarbon %}</span>
+[(Chaturvedi et al., 2026)](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202501817)
