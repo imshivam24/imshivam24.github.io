@@ -443,6 +443,11 @@ ninja.data = [{
           description: "A review mapping how catalyst dimensionality — bulk vs. two-dimensional — shapes the thermodynamics and kinetics of CO₂ electroreduction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_co2rr_bulk_2d/";
+            },},{id: "projects-physics-guided-deep-learning-for-nanofluid-viscosity",
+          title: 'Physics-guided deep learning for nanofluid viscosity',
+          description: "A Physics Guided Deep Neural Network (PGDNN) that fuses theoretical viscosity models with data-driven learning to predict nanofluid viscosity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_pgdnn_nanofluid/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
