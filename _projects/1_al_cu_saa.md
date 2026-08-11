@@ -2,7 +2,7 @@
 layout: page
 title: Al-Cu single-atom alloys for CO/CO₂ reduction
 description: Kinetics of acidic CO₂RR to C1 products on Al-Cu single-atom alloys, from DFT to microkinetic selectivity trends.
-img:
+img: assets/img/Chemsuschem_TOC.png
 importance: 1
 category: work
 related_publications: true
