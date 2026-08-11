@@ -2,7 +2,7 @@
 layout: page
 title: Data-driven massive reaction networks
 description: Combining DFT, machine learning, and automated reaction enumeration to build the largest known kinetic network for CO₂ hydrogenation on copper.
-img:
+img: assets/img/ARE_TOC.png
 importance: 3
 category: work
 related_publications: true
