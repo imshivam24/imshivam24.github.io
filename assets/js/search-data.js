@@ -424,7 +424,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-transient-microkinetic-modeling-of-electrochemical-mechanisms-towards-understanding-the-dynamics-of-co-reduction-and-oxygen-evolution-has-been-accepted-for-publication-in-advanced-theory-amp-amp-simulations-adts-wiley",
           title: 'Our paper, “Transient Microkinetic Modeling of Electrochemical Mechanisms: Towards Understanding the Dynamics of...',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-my-oral-presentation-machine-learning-guided-design-of-copper-based-single-atom-alloy-catalysts-for-co-valorisation-has-been-accepted-for-the-acs-spring-2026-global-virtual-symposium-in-the-theme-computational-materials-discovery",
+          section: "News",},{id: "news-excited-to-share-that-my-oral-presentation-machine-learning-guided-design-of-copper-based-single-atom-alloy-catalysts-for-co-valorisation-has-been-accepted-at-the-acs-national-meeting-2025",
           title: 'Excited to share that my oral presentation, “Machine learning-guided design of copper-based single-atom...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-our-research-article-hydrocarbon-selectivity-in-co-and-co-reduction-on-al-cu-single-atom-alloy-electrocatalysts-effects-of-potential-ph-and-facet-is-now-published-online-in-chemsuschem-this-work-investigates-how-applied-potential-electrolyte-ph-and-catalyst-facet-influence-hydrocarbon-selectivity-during-co-and-co-electroreduction-on-al-cu-single-atom-alloy-surfaces-providing-new-mechanistic-insights-for-electrocatalyst-design",
