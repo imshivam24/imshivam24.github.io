@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "[Transient Microkinetic Modeling of Electrochemical Mechanisms: Towards Understanding the Dynamics of CO Reduction and Oxygen Evolution](https://advanced.onlinelibrary.wiley.com/doi/1[...]"
+Our paper, “[Transient Microkinetic Modeling of Electrochemical Mechanisms: Towards Understanding the Dynamics of CO Reduction and Oxygen Evolution](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adts.202500799),” has been accepted for publication in Advanced Theory & Simulations (ADTS), Wiley
