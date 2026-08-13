@@ -12,5 +12,7 @@ Real catalytic mechanisms rarely reduce to the few dozen elementary steps typica
 
 Applied to CO₂ hydrogenation on copper, the approach starts from a curated set of 152 elementary reactions and expands it to 9,389, cutting the human bias baked into manually curated networks. The resulting model predicts roughly 40-fold higher CO₂ conversion than smaller networks, tracking experimental trends in methanol and CO production, and points to intermolecular hydrogen transfer and molecular-hydrogen-mediated hydrogenation as underappreciated steps — a mechanistic detail the ML-guided search surfaced rather than one we set out looking for.
 
+In press at *Nature Communications*; preprint available on ChemRxiv.
+
 <span style="display:none">{% cite verma2025data %}</span>
-[(Verma and Chaturvedi et al., 2025)](https://chemrxiv.org/engage/chemrxiv/article-details/6751cc927be152b1d00e55c6)
+[(Verma and Chaturvedi et al., 2026)](https://chemrxiv.org/engage/chemrxiv/article-details/6751cc927be152b1d00e55c6)
