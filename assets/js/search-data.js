@@ -430,12 +430,10 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-our-research-article-hydrocarbon-selectivity-in-co-and-co-reduction-on-al-cu-single-atom-alloy-electrocatalysts-effects-of-potential-ph-and-facet-is-now-published-online-in-chemsuschem",
           title: 'Excited to share that our research article, “Hydrocarbon Selectivity in CO and CO₂...',
           description: "",
-          section: "News",},{id: "news-announcement-7",
-          title: 'Announcement_7',
+          section: "News",},{id: "news-we-are-delighted-to-share-that-our-research-article-data-driven-massive-reaction-networks-reveal-mechanistic-pathways-underlying-catalytic-co-hydrogenation-has-been-accepted-for-publication-in-nature-communications",
+          title: 'We are delighted to share that our research article, “Data-driven massive reaction networks...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "projects-al-cu-single-atom-alloys-for-co-co-reduction",
+          section: "News",},{id: "projects-al-cu-single-atom-alloys-for-co-co-reduction",
           title: 'Al-Cu single-atom alloys for CO/CO₂ reduction',
           description: "Kinetics of acidic CO₂RR to C1 products on Al-Cu single-atom alloys, from DFT to microkinetic selectivity trends.",
           section: "Projects",handler: () => {
