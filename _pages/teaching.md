@@ -11,7 +11,7 @@ nav_order: 5
 
 Provided teaching assistance, mentoring, and academic support in the following courses:
 
-- **[NPTEL: Machine Learning for Core Engineering Disciplines](https://www.youtube.com/playlist?list=PLgMDNELGJ1CYxkPswXfE1Fk9rzBeG4hFv)** (Aug 2026)
+- **[NPTEL: Machine Learning for Core Engineering Disciplines](https://www.youtube.com/playlist?list=PLgMDNELGJ1CYxkPswXfE1Fk9rzBeG4hFv)** (Jul 2026)
   Teaching Assistant under Prof. Ananth Govind Rajan
   - Assisted with course coordination, student queries, assignment evaluation, and conceptual discussions in machine learning foundations for engineering applications.
 
