@@ -437,7 +437,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-our-research-article-hydrocarbon-selectivity-in-co-and-co-reduction-on-al-cu-single-atom-alloy-electrocatalysts-effects-of-potential-ph-and-facet-is-now-published-online-in-chemsuschem",
           title: 'Excited to share that our research article, “Hydrocarbon Selectivity in CO and CO₂...',
           description: "",
-          section: "News",},{id: "news-i-am-delighted-to-share-that-our-research-article-data-driven-massive-reaction-networks-reveal-mechanistic-pathways-underlying-catalytic-co-hydrogenation-has-been-accepted-for-publication-in-nature-communications",
+          section: "News",},{id: "news-i-am-delighted-to-share-that-our-research-article-data-driven-massive-reaction-networks-reveal-mechanistic-pathways-underlying-catalytic-co-hydrogenation-is-now-published-in-nature-communications",
           title: 'I am delighted to share that our research article, “Data-driven massive reaction networks...',
           description: "",
           section: "News",},{id: "projects-al-cu-single-atom-alloys-for-co-co-reduction",
