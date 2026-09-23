@@ -6,4 +6,4 @@ nav: true
 nav_order: 2
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/Shivam_CV_Aug26.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/Shivam_CV_Sep26.pdf">
