@@ -78,3 +78,13 @@ horizontal: false
   Supervisor: Dr. Satyasaran Changdar
   - Explored a physics-guided neural network framework to develop a generalized model for
     predicting nanofluid viscosity with high accuracy
+
+#### Research Interests & Skills
+
+Machine learning and atomistic modeling for data-driven design and screening; large-scale reaction networks and kinetic modeling; generative models for molecular and materials design.
+
+- **Atomistic Modeling:** Density Functional Theory (DFT, VASP), computational hydrogen electrode, transition-state calculations (NEB), Molecular Dynamics (MD), Machine-Learned Interatomic Potentials (MLIPs: MACE fine-tuning, MACE-MP-0 foundation model), ASE
+- **Kinetic Modeling:** Steady-state and transient microkinetic modeling (MKMCXX), Marcus-theory kinetics, coupled mass transport–microkinetics, data-driven reaction networks, automated reaction enumeration (MILP, Gurobi), graph-theoretical pathway analysis (NetworkX)
+- **Machine Learning:** ML-guided screening and candidate ranking, equivariant graph neural networks, gradient boosting (CatBoost) with SHAP interpretability, physics-guided neural networks, CNNs with transfer learning
+- **Programming:** Python (NumPy, SciPy, pandas, Numba, PyTorch, scikit-learn, RDKit), MATLAB, Streamlit, Git, LaTeX
+- **Computing:** High-Performance Computing (HPC, SLURM), GPU computing (CUDA)

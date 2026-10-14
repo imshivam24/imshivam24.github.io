@@ -29,3 +29,9 @@ Hi! I am a fifth-year Ph.D. candidate in [Chemical Engineering](https://chemeng.
 Alongside my research, I have served as a teaching assistant for courses on quantum-mechanical modeling (CH 253), numerical methods (CH 202), and NPTEL's [machine learning for core engineering disciplines](https://www.youtube.com/playlist?list=PLgMDNELGJ1CYxkPswXfE1Fk9rzBeG4hFv). I am also actively engaged in academic and student life, serving as Vice President of the Chemical Engineering Association and as Innovation Coordinator at the Institute Innovation Council.
 
 I enjoy problems that combine deep theoretical insight with real-world impact, and I stay curious about how emerging technologies can reshape chemical engineering.
+
+#### Awards & Fellowships
+
+- **2026** — [K. Ananth Swamy Memorial Research Award](https://www.nature.com/articles/s41467-026-77080-4), Department of Chemical Engineering, IISc, for the most impactful research by a PhD student
+- **2026** — Prof. R. Kumar Student Travel Award, for ML-accelerated screening of Cu-based single-atom alloy catalysts for CO₂ conversion
+- **Since 2022** — MHRD PhD Scholarship, Ministry of Education (MHRD), Government of India
