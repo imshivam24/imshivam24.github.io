@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prof. R. Kumar Student Travel Award, Summer 2026
-date: 2026-10-14 10:00:00-0400
+date: 2026-10-08 15:29:00 +0000
 inline: true
 related_posts: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K. Ananth Swamy Memorial Research Award 2026
-date: 2026-10-13 16:00:00-0400
+date: 2026-10-07 00:26:00 +0000
 inline: true
 related_posts: false
 ---
