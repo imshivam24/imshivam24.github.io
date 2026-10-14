@@ -8,6 +8,19 @@ nav_order: 6
 ---
 
 <div class="gallery-section">
+  <h4>K. Ananth Swamy Memorial Research Award, IISc — Oct 2026</h4>
+  <p class="text-muted">Data-driven massive reaction networks reveal mechanistic pathways underlying catalytic CO₂ hydrogenation</p>
+  <div class="row row-cols-1 row-cols-md-2 g-3">
+    <div class="col">
+      {% include figure.liquid path="assets/img/gallery/k-ananth-swamy-award-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Receiving the K. Ananth Swamy Memorial Research Award 2026, Department of Chemical Engineering, IISc." %}
+    </div>
+    <div class="col">
+      {% include figure.liquid path="assets/img/gallery/k-ananth-swamy-award-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Delivering the award lecture (13 Oct 2026)." %}
+    </div>
+  </div>
+</div>
+
+<div class="gallery-section mt-4">
   <h4>IISc Chemical Engineering Symposium (ICS-26) — Jan 2026</h4>
   <p class="text-muted">Advancing CO₂ Conversion via Data-Driven Pathways</p>
   <div class="row row-cols-1 row-cols-md-3 g-3">
