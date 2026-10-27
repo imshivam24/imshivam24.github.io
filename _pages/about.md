@@ -32,5 +32,5 @@ I enjoy problems that combine deep theoretical insight with real-world impact, a
 
 #### Awards & Fellowships
 
-- **2026** — [K. Ananth Swamy Memorial Research Award](https://www.nature.com/articles/s41467-026-77080-4), Department of Chemical Engineering, IISc, for the most impactful research by a PhD student
+- **2026** — [K. Ananth Swamy Memorial Research Award for the year 2026](https://www.nature.com/articles/s41467-026-77080-4), Department of Chemical Engineering, IISc, for the most impactful research by a PhD student in 2026
 - **2026** — Prof. R. Kumar Student Travel Award, for ML-accelerated screening of Cu-based single-atom alloy catalysts for CO₂ conversion
